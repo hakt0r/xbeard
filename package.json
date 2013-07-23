@@ -1,0 +1,16 @@
+{
+  "name": "xbeard",
+  "version": "0.0.0",
+  "description": "a better beard",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "better",
+    "sick",
+    "beard"
+  ],
+  "author": "flyc0r@ulzq.de",
+  "license": "BSD"
+}
